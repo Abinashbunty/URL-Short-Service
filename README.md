@@ -2,10 +2,10 @@
 
 > API to create short urls using Node, Express and MongoDB
 
-## Quick Start
+## Execution steps
 
 ```bash
-# Install dependencies
+# Install the requisite dependencies
 npm install
 
 # Edit the default.json file with your mongoURI and baseUrl
@@ -15,7 +15,7 @@ npm install
 npm start
 ```
 
-## Endpoint to create short url
+## Short URL creation
 
 ### POST api/url/shorten
 

@@ -7,7 +7,9 @@
 ```bash
 # Install the requisite dependencies
 npm install
+```
 
+```bash
 # Edit the default.json file with your mongoURI and baseUrl
 # Use production.json in production env
 
